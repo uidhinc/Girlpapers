@@ -1,0 +1,41 @@
+{
+   "Categories": 
+        [
+            {
+                "name": "Sexy"
+            },
+            {
+                "name": "Royal"
+            },
+           {
+                "name": "Hot"
+            },
+           {
+                "name": "Writing"
+            }
+        ],
+   "Wallpapers": [
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria1.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria1_thumb.jpg",
+         "name": "Andria",
+         "category": "Hot"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria2.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria2_thumb.jpg",
+         "name": "Andria",
+         "category": "Sexy"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria35.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/Andria/master/Andria35_thumb.jpg",
+         "name": "Andria",
+         "category": "Sexy"
+      }
+      
+        ]
+}
