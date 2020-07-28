@@ -1,14 +1,4 @@
-{
-   "Categories": 
-        [
-            {
-                "name": "Sexy"
-            },
-            {
-                "name": "Royal"
-            }
-        ],
-   "Wallpapers": [
+[
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/Girlpapers/master/Girl1.jpg",
@@ -227,4 +217,4 @@
          "category": "Sexy"
       }
         ]
-}
+
